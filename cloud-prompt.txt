@@ -1,0 +1,19 @@
+Work only inside the folder `codex-playground`.
+
+Create the simplest possible website using Vite and plain JavaScript.
+
+Requirements:
+
+- Single page only
+- One headline
+- One short paragraph
+- One button with a tiny interaction
+- Keep dependencies minimal
+- Make sure `npm run build` passes
+- Do not modify files outside `codex-playground`
+
+After implementing, run the build and report:
+
+- which files you created or changed
+- whether the build passed
+- what the page does
